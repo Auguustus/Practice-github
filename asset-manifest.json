@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Practice-github/static/css/main.86aff2be.css",
+    "main.js": "/Practice-github/static/js/main.3b700cb7.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Practice-github/static/js/787.d4aba7ab.chunk.js",
+    "static/media/SEGA.woff": "/Practice-github/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Practice-github/index.html",
+    "main.86aff2be.css.map": "/Practice-github/static/css/main.86aff2be.css.map",
+    "main.3b700cb7.js.map": "/Practice-github/static/js/main.3b700cb7.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Practice-github/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86aff2be.css",
+    "static/js/main.3b700cb7.js"
+  ]
+}
